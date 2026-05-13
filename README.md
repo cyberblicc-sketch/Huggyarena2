@@ -5,9 +5,9 @@ This repository includes `HuggyArena.pdf` plus extracted outputs in multiple for
 ## Repository content
 
 - `HuggyArena.pdf` — original source document.
-- `docs/HuggyArena.extracted.txt` — plain text, page-by-page extraction.
-- `docs/HuggyArena.extracted.md` — markdown extraction with per-page sections.
-- `docs/HuggyArena.extracted.json` — structured extraction (`total_pages` + `pages[]`).
+- `docs/HuggyArena.extracted.txt` — plain text, page-by-page extraction (best for grep/search tools).
+- `docs/HuggyArena.extracted.md` — markdown extraction with per-page sections (best for human browsing).
+- `docs/HuggyArena.extracted.json` — structured extraction (`total_pages` + `pages[]`) for programmatic use.
 - `docs/HuggyArena.extraction-report.json` — verification metadata (page counts + SHA-256 hashes).
 
 ## Verification summary
@@ -18,5 +18,5 @@ This repository includes `HuggyArena.pdf` plus extracted outputs in multiple for
 
 ## Notes
 
-- Different output formats are provided intentionally so the PDF content can be consumed in different ways.
+- Use TXT for quick text search, MD for readable sectioned viewing, and JSON for scripts/integrations.
 - Some PDF parsing artifacts may remain where text wraps across page boundaries.

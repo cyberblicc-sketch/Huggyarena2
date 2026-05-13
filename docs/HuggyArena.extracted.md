@@ -1,7 +1,7 @@
 # HuggyArena.pdf Extracted Text
 
-- Source file: `HuggyArena.pdf`
-- Total pages: **80**
+Source file: `HuggyArena.pdf`
+Total pages: **80**
 
 ## Page 1
 
