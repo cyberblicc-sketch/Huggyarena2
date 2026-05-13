@@ -18,5 +18,5 @@ This repository includes `HuggyArena.pdf` plus extracted outputs in multiple for
 
 ## Notes
 
-- Use TXT for quick text search, MD for readable sectioned viewing, and JSON for scripts/integrations.
+- Use TXT for quick text search, MD for readable sectioned viewing, and JSON for programmatic access.
 - Some PDF parsing artifacts may remain where text wraps across page boundaries.
