@@ -1,0 +1,12 @@
+{
+  "source_pdf": "HuggyArena.pdf",
+  "pdf_sha256": "df4938c0154e5e82643d49ca6952bd9d1abefa633b241b42d85a0af0014a1a21",
+  "total_pages": 80,
+  "non_empty_pages": 80,
+  "total_extracted_characters": 231563,
+  "outputs": {
+    "docs/HuggyArena.extracted.txt": "3f0b14911e6015bd8b63bf621121021c96a2d0c3a94313ab170fc28b74b55f5d",
+    "docs/HuggyArena.extracted.md": "3d4855a06b47fddbdf4562e1fa3ad671f1972cb5e0644b6815243bf03270d32e",
+    "docs/HuggyArena.extracted.json": "91ad73e2299e058dccd6bb692fee21672467a5c4e118a7c840d4664a29d15cf8"
+  }
+}
